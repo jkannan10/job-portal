@@ -1,0 +1,13 @@
+.lightblue-navbar {
+    background-color: white;
+  }
+  .oswald-lightblue-navbar{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.active-link {
+  color: blue ; 
+}

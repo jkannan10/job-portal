@@ -1,0 +1,27 @@
+.help-page {
+    background-color: #f8f9fa;
+    padding-bottom: 50px;
+  }
+  
+  .icon {
+    margin-bottom: 20px;
+  }
+  
+  .icon svg {
+    color: #007bff;
+  }
+  
+  .icon h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .icon p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
